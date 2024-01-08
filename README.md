@@ -2,14 +2,14 @@
 
 <a name="readme-top"></a>
 <div align="center">
-    <img src="/app/assets/images/logo_jcm.png" alt="main-logo" width="500"  height="auto" />
+    <img src="/app/assets/images/logo_jcm_md.png" alt="main-logo" width="500"  height="auto" />
   <br/>
   <h3><b>Hello World Rails App</b></h3>
 </div>
-# 📗 Table of Contents
+## 📗 Table of Contents <a name="table_of-contents"></a>
 
 - [📗 Table of Contents](#-table-of-contents-)
-- [📖 About project ](#about-project-)
+- [📖 About project ](#about-project)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-## 📖 Abou project - Hello World Rails App <a name="about-project"></a>
+## 📖 About project - Hello World Rails App <a name="about-project"></a>
 
 The Hello World Rails App is a basic Ruby on Rails project created to learn how to set up a Rails 7 project connected to a Postgresql database.
 
