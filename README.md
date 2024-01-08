@@ -2,14 +2,14 @@
 
 <a name="readme-top"></a>
 <div align="center">
-    <img src="../app/assets/images/logo_jcm.png" alt="main-logo" width="500"  height="auto" />
+    <img src="../logo_jcm.png" alt="main-logo" width="500"  height="auto" />
   <br/>
   <h3><b>Hello World Rails App</b></h3>
 </div>
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello World Rails App ](#-about-project-)
+- [📖 Hello World Rails App ](#about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
